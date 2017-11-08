@@ -57,3 +57,7 @@ div.jumbotron {
   text-align: center;
   border-radius: 5px;
 }
+
+div.jumbotron h1 {
+  color: #159;
+}
